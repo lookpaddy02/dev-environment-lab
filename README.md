@@ -1,4 +1,4 @@
-https://i.imgur.com/kQe4rfP.png
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vPVzq06" data-context="false" ><a href="//imgur.com/a/vPVzq06"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # dev-environment-lab
 
